@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("RetrieveFieldPermission")]
+[assembly: AssemblyTitle("DumpEntityMetada")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("RetrieveFieldPermission")]
+[assembly: AssemblyProduct("DumpEntityMetada")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,11 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-<<<<<<< HEAD
-[assembly: Guid("8eb36bbb-2978-46fc-a4c4-c3d914f3b430")]
-=======
-[assembly: Guid("c650f770-934e-45d5-84d4-1922a02742f1")]
->>>>>>> e17f0bedd03f33aec18be3f488aee58b5c2fbc6a
+[assembly: Guid("d27ca8bb-3afe-4c63-9987-8cef74141b76")]
 
 // Version information for an assembly consists of the following four values:
 //
